@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Wallet/">
+    <file alias="qml.qrc">/home/abdulrahman/Code/qt/Wallet/qml.qrc</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,9 @@
+module Wallet
+typeinfo appWallet.qmltypes
+prefer :/
+Main 1.0 Main.qml
+LoginScreen 1.0 LoginScreen.qml
+HomeScreen 1.0 HomeScreen.qml
+TransactionScreen 1.0 TransactionScreen.qml
+depends QtQuick
+

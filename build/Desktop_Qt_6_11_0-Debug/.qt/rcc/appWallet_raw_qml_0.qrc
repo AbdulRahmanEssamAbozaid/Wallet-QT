@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="Main.qml">/home/abdulrahman/Code/qt/Wallet/Main.qml</file>
+    <file alias="LoginScreen.qml">/home/abdulrahman/Code/qt/Wallet/LoginScreen.qml</file>
+    <file alias="HomeScreen.qml">/home/abdulrahman/Code/qt/Wallet/HomeScreen.qml</file>
+    <file alias="TransactionScreen.qml">/home/abdulrahman/Code/qt/Wallet/TransactionScreen.qml</file>
+  </qresource>
+</RCC>
+

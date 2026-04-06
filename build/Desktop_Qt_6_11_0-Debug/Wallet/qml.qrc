@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>HomeScreen.qml</file>
+        <file>LoginScreen.qml</file>
+        <file>Main.qml</file>
+        <file>TransactionScreen.qml</file>
+    </qresource>
+</RCC>
