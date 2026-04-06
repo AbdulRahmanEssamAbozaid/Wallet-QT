@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/">/home/abdulrahman/Code/qt/Wallet/build/Desktop_Qt_6_11_0-Debug/Wallet</file>
-
-  </qresource>
-</RCC>
